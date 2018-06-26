@@ -5,7 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "react": "^16.4.1",
-    "react-dom": "^16.4.1"
+    "react-dom": "^16.4.1",
+    "react-simple-flex-grid": "^1.2.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",

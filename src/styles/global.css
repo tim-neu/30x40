@@ -1,0 +1,47 @@
+body {
+  color: #000;
+  font-family: sans-serif;
+}
+
+.nav {
+  /*background-color: #f2f2f2;*/
+}
+
+.logotype {
+  text-align: center;
+  font-weight: bold;
+  font-size: 36px;
+}
+
+p.intro {
+  text-align: center;
+  font-style: italic;
+  font-weight: lighter;
+  font-size: 22px;
+  color: #bababa;
+  padding: 100px 0px;
+}
+
+p.placeholder {
+  text-align: center;
+  font-weight: lighter;
+  color: #bababa;
+  font-size: 13px;
+  padding: 100px 0px 250px 0px;
+}
+
+p {
+  font-family: georgia;
+  font-weight: 400;
+  font-size: 21px;
+  color: rgba(0, 0, 0, 0.84);
+  line-height: 33px;
+}
+
+h3 {
+  font-family: Arial;
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 39px;
+  color: rgba(0, 0, 0, 0.84);
+}
