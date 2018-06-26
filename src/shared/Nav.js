@@ -13,7 +13,9 @@ export default class Nav extends Component {
       <Row className="nav">
         <Col span={2} />
         <Col span={8}>
-          <div className="logotype">30x40</div>
+          <div className="logotype">
+            30<span className="logobold">x</span>40
+          </div>
         </Col>
         <Col span={2} />
       </Row>

@@ -24,7 +24,7 @@ const Index = () => {
       </Row>
       <Row>
         <Col span={12}>
-          <p className="placeholder">placeholder</p>
+          <p className="placeholder">interactive model</p>
         </Col>
       </Row>
       <Row>
